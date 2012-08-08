@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/3529/trunk/Boost/lib
+END
+libboost_date_time-vc90-mt-1_44.lib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2640/trunk/Boost/lib/libboost_date_time-vc90-mt-1_44.lib
+END
+libboost_date_time-vc100-mt-gd-1_44.lib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2640/trunk/Boost/lib/libboost_date_time-vc100-mt-gd-1_44.lib
+END
+libboost_thread.a
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2662/trunk/Boost/lib/libboost_thread.a
+END
+libboost_thread-vc90-mt-gd-1_44.lib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2640/trunk/Boost/lib/libboost_thread-vc90-mt-gd-1_44.lib
+END
+libboost_thread-vc100-mt-1_44.lib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2640/trunk/Boost/lib/libboost_thread-vc100-mt-1_44.lib
+END
+libboost_date_time-vc90-mt-gd-1_44.lib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2640/trunk/Boost/lib/libboost_date_time-vc90-mt-gd-1_44.lib
+END
+libboost_date_time-vc100-mt-1_44.lib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2640/trunk/Boost/lib/libboost_date_time-vc100-mt-1_44.lib
+END
+libboost_thread-vc100-mt-gd-1_44.lib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2640/trunk/Boost/lib/libboost_thread-vc100-mt-gd-1_44.lib
+END
+libboost_thread-vc90-mt-1_44.lib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2640/trunk/Boost/lib/libboost_thread-vc90-mt-1_44.lib
+END

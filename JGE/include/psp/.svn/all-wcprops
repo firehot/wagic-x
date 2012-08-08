@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2957/trunk/JGE/include/psp
+END
+pngconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2957/trunk/JGE/include/psp/pngconf.h
+END
+ft2build.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2957/trunk/JGE/include/psp/ft2build.h
+END
+gif_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2957/trunk/JGE/include/psp/gif_lib.h
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2957/trunk/JGE/include/psp/jmorecfg.h
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2957/trunk/JGE/include/psp/jpeglib.h
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2957/trunk/JGE/include/psp/zconf.h
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2957/trunk/JGE/include/psp/jconfig.h
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2957/trunk/JGE/include/psp/zlib.h
+END
+mikmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2957/trunk/JGE/include/psp/mikmod.h
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2957/trunk/JGE/include/psp/jerror.h
+END
+png.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2957/trunk/JGE/include/psp/png.h
+END

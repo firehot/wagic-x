@@ -1,0 +1,453 @@
+#LANG:Italiano
+#File di traduzione in Italiano per Wagic 0.9.2 - by Icarus
+#Metti questo file nella cartella WTH/Res e rinominalo come _lang.txt
+#Al prossimo avvio del gioco avrai il tutto tradotto
+#Buon divertimento
+
+#Note to translators:
+# - Cards' names and types are translated here (see bottom of the file)
+# - Cards' rules text is translated in a separate file: Res\lang\it_cards.txt
+# - Translations are case sensitive
+# - Limitation: Special characters that are not in the limited 128 ASCII
+#     set can not be used, the game won't display them.
+# - DO NOT TRANSLATE ANYTHING in the _cards.dat files.
+
+#Game menus/texts
+LOADING SET: %s=CARICAMENTO SET: %s
+Play=Gioca
+Deck Editor=Deck Editor
+Shop=Negozio
+Options=Opzioni
+Exit=Esci
+1 Player=1 Giocatore
+2 Players=2 Giocatori
+Player=Giocatore
+Cancel=Annulla
+Classic=Classico
+Music volume=Volume Musica
+SFX volume=Volume Suoni
+
+Interrupt my spells=Interrompi le mie magie
+
+Interrupt my abilities=Interrompi le mie abilita'
+
+Display InGame extra information=Mostra informazioni extra in gioco
+Seconds to pause for an Interrupt=Secondi di pausa per Istantaneo
+Difficulty=Difficolta'
+Image Cache Size=Dimensione Cache Immagini
+Save & Back to Main Menu=Salva e Torna al Menu
+Back to Main Menu=Torna al Menu
+Back to main menu=Torna al Menu
+--NEW--=--NUOVO--
+Save=Salva
+Choose a Deck=Scegli un Mazzo
+Choose Opponent=Scegli Avversario
+(easy)=(*)
+(hard)=(***)
+Random=Casuale
+You have a %i%% victory ratio with Deck%i=Hai il %i%% di vittorie col mazzo %i
+You have played %i games with Deck%i=Hai giocato %i partite con il mazzo %i
+You have played a total of %i games=Hai giocato in tutto %i partite
+Unlock the difficult mode for more challenging duels!=Sblocca la modalita' difficile per partite piu' competitive!
+Interested in playing Momir Basic? You'll have to unlock it first :)=Conosci Momir Basic? Sblocca questa modalita' per poterla provare
+You have a total of %i cards in your collection=Hai un totale di %i carte nella tua collezione
+
+The cards in your collection have an average value of %i credits=Le carte nella tua collezione hanno un valore medio di %i crediti
+The shopkeeper would buy your entire collection for around %i credits=Potresti vendere la tua intera collezione per circa %i crediti
+You currently have %i credits=Hai %i crediti
+More cards and mods at http://wololo.net/wagic=Ulteriori carte a http://wololo.net/wagic
+These stats will be updated next time you run Wagic=Le statistiche saranno aggiornate al prossimo avvio di Wagic
+Yes=Si
+No=No
+NO DECK AVAILABLE,=NESSUN DECK DISPONIBILE,
+PRESS CIRCLE TO GO TO THE DECK EDITOR!=PREMI CERCHIO PER TORNARE AL DECK EDITOR!
+You haven't unlocked the random deck mode yet=Non hai ancora sbloccato la modalita' mazzo casuale
+You haven't locked the random deck mode yet=Non hai ancora bloccato la modalita' mazzo casuale
+You haven't unlocked the evil twin mode yet=Non hai ancora sbloccato la modalitEevil twin
+You have unlocked %i expansions out of %i=Hai sbloccato %i espansioni su %i
+Premade G/R=Mazzo Iniziale V/R
+
+#Match
+Player 1=Giocatore 1
+Player 2=Giocatore 2
+Interrupt?=Gioca istantaneo?
+X Interrupt - 0 No - [] No to All=X Gioca istant. - 0 No - [] No per tutto
+X Interrupt - 0 No=X Gioca istant. - 0 No
+
+#End of Match
+Difficulty Bonus=Bonus Difficolta'
+'Live dangerously and you live right' Bonus=Bonus 'Vivi pericolosamente e vivrai bene' 
+Life Delta Bonus=Bonus per Differenza di Punti Vita
+'Decree of Theophilus' Bonus=Bonus 'Decreto di Theophilos'
+'Fast and Furious' Bonus=Bonus 'Fast and Furious'
+Victory=Vittoria
+Congratulations! You earn %i credits=Congratulazioni! Hai guadagnato %i crediti
+You have been defeated=Sei stato sconfitto
+Player %i wins (%i)=Il giocatore %i vince (%i)
+Please support this project !=Sostieni Wagic !
+Wagic is free, open source, and developed on the little free time I have=Wagic e' gratuito, open source, e sviluppato nel poco tempo libero che ho
+If you enjoy this game, please consider donating a few bucks=Se lo apprezzate, perfavore considerate di donare anche un paio di spiccioli
+(Seriously, donate or I'll kill this cute little bunny)=(Seriamente, senno' uccidero questo piccolo e tenero coniglietto o_o )
+Thanks in advance for your support.=Grazie in anticipo per il vostro supporto.
+
+#inGame
+Attacking Player=Giocatore Attaccante
+Blocking Player=Giocatore Bloccante
+Current Damager:=Danni inflitti da:
+Damages Assigned, Click Square to Continue=Danni assegnati, premi [] per continuare
+Order blockers, then Click Square to Continue=Ordina i bloccanti, premi [] continuare
+sacrifice=sacrifica
+
+#Mana pool (Bird of Paradise)
+Add 1 green mana=Aggiungi 1 mana verde
+Add 1 red mana=Aggiungi 1 mana rosso
+Add 1 blue mana=Aggiungi 1 mana blu
+Add 1 black mana=Aggiungi 1 mana nero
+Add 1 white mana=Aggiungi 1 mana bianco
+
+#Gilded Lotus 
+Add 3 white mana=Aggiungi 3 mana bianchi
+Add 3 black mana=Aggiungi 3 mana neri
+Add 3 green mana=Aggiungi 3 mana verdi
+Add 3 blue mana=Aggiungi 3 mana blu
+Add 3 red mana=Aggiungi 3 mana rossi
+
+#Other
+Add 1 mana=Aggiungi 1 mana
+
+#Phases
+Untap=Fase di Stappo
+Upkeep=Mantenimento
+Draw=Pesca
+Main phase 1=Fase Principale 1
+Combat begins=Inizio Combatt.
+Attackers=Attaccanti
+Blockers=Bloccanti
+Combat damage=Assegnaz. Danni
+Combat ends=Fine Combattimento
+Main phase 2=Fase Principale 2
+End=Fine
+Cleanup=Fase di Scarto
+
+#Stack
+Deals %i damage to= Fa %i danno/i a
+
+goes to graveyard= va' nel cimitero
+%s goes to graveyard=%s va' nel cimitero
+
+Deplete= Mette nel cimitero
+
+Player %i draws %i card= Il Giocatore %i pesca %i carta
+
+
+Damage=Danno
+Ability=Abilita'
+ability=abilita'
+
+#Abilities
+Move=Muovi
+Regenerate=Rigenera
+Blocker=Bloccante
+Attacker=Attaccante
+Tap=Tappa
+Untap=Stappa
+Destroy=Distruggi
+
+#Deck Editor
+Prev.=prec.
+card=carta
+cards=carte
+Next=succ.
+Next color=Colore succ.
+Prev. color=Colore prec.
+Add card=Agg. carta
+Display Deck=Mostra Mazzo
+Remove card=Rimuovi carta
+Display Collection=Mostra collezione
+You are currently viewing your=Stai guardando il/la
+collection. Press TRIANGLE=collezione. Premi TRIANGOLO
+to switch to your deck.=per vedere il mazzo.
+deck. Press TRIANGLE to=mazzo. Premi TRIANGOLO
+switch to your collection.=per vedere la collezione.
+Press L/R to cycle through=Premi L/R per scorrere le
+deck statistics.=statistiche del mazzo.
+Deck info=Info Mazzo
+Sell card=Vendi carta
+
+
+No Card=Nessuna Carta
+Your Deck: %i cards=Tuo Mazzo: %i carte
+
+
+# 0.9.1 strings - a lot of these are not working
+[]:other cards /\:list=[]:altre carte /\:lista
+Save & Rename=Salva & Rinomina
+Switch decks without saving=Cambia mazzo senza salvare
+
+Settings=Impostazioni
+Game=Gioco
+User=Utente
+Credits=Crediti
+
+General Options=Opzioni Generali
+
+Interface Options=Opzioni Interfaccia
+Closed hand=Mano nascosta
+visible=visibile
+invisible=invisibile
+Hand direction=Direzione della mano
+vertical=verticale
+horizontal=orizzontale
+Mana display=Visualizzazione Mana
+Simple=Semplice
+Both=Entrambe
+Reverse left and right triggers=Inverti levetta sinistra e destra
+Disable card image loading=Disabilita caricamento immagini
+
+User Options=Opzioni Utente
+Cards=Carte 
+Theme: %s=Tema: %s
+Artist: %s=Artista: %s
+New Profile=Nuovo Profilo
+
+#Nuove Stringhe - 31/11/09
+
+Statistics Summary=Sommario Statistiche
+
+Lands=Terre
+
+Creatures=Creature
+
+Spells=Magie
+
+Instants=Istantanei
+
+Enchantments=Incantesimi
+
+Sorceries=Stregonerie
+
+Average converted mana cost=Costo convert. in mana medio
+
+Probabilities=Probabilita'
+
+No land in 1st hand=No terre nella 1' mano
+
+No land in 9 cards=No terre in 9 carte
+
+No creatures in 1st hand=No creature nella 1' mano
+
+
+statsPage#:%i=Pagina Statistiche #:%i
+
+statsPage#: %i=Pagina Statistiche #: %i
+
+
+Playgame statistics=Statistiche di gioco
+
+Games played=Partite giocate
+
+Victory ratio=Rateo di vittoria
+
+Total price (credits)=Prezzo totale (crediti)
+
+
+Mana production=Produzione mana
+
+Counts of manasources per type and color:=Conto delle fonti di mana per tipo e colore:
+
+BL - Basic lands=BL - Terre base
+
+NB - Non-basic lands=NB - Terre non-base
+
+O - Other (non-land) manasources=O - Altre (non-terre) fonti di mana
+
+T - Totals=T - Totali
+
+
+Mana production - in mana symbols=Produzione di mana - in simboli
+
+Total colored manasymbols in lands' production:=Totale simboli di mana colorati nella prod. delle terre
+
+
+Mana cost detail=Dettaglio costo mana
+
+Card counts per mana cost:=Numero carte per costo di mana:
+
+
+Mana cost detail - Creatures=Dettaglio costo mana - Creature
+
+Creature counts per mana cost:=Numero creature per costo di mana:
+
+
+Mana cost detail - Spells=Dettaglio costo mana - Magie
+
+Non-creature spell counts per mana cost:=Numero di magie non-creatura per costo di mana:
+
+
+Average converted mana cost: %f=Costo convertito in mana medio: %f
+
+Average converted mana cost: %2.2f=Costo convertito in mana medio: %2.2f
+
+
+C - Converted mana cost. Cards with cost>%i are included in the last row.=C - Costo convertito in mana. Carte con costo >%i sono incluse nell'ultima riga.
+
+
+# - Total number of cards with given cost=# - Numero totale di carte con un dato costo
+
+
+No lands in first n cards:=Niente terre nelle prime n carte:
+
+No creatures in first n cards:=Niente creature nelle prime n carte:
+
+
+Mana cost per color=Costo in mana per colore
+
+Total colored manasymbols in cards' casting costs:=Totale simboli di mana colorati nel costo delle carte:
+
+
+Victory statistics=Statistiche vittoria
+
+Victories against AI:=Vittorie contro IA:
+
+
+Games played: %i=Partite giocate: %i
+Victory ratio: %i%%=Rateo vittoria: %i%%
+
+Victory ratio: %i=Rateo vittoria: %i
+
+
+Database: %i cards=Database: %i carte
+
+
+%s: %i cards (%i)=%s: %i carte (%i)
+
+
+Random 1 Color=Casuale 1 Colore
+
+Random 2 Colors=Casuale 2 Colori
+
+
+LOADING...=CARICAMENTO...
+
+
+Please check your deck (not enough cards?)=Perfavore controlla il mazzo (troppe poche carte?)
+
+
+
+
+Credits: %i=Crediti: %i
+
+Cards: %i=Carte: %i
+
+
+
+
+
+# 0.10.1 strings
+Normal=Normale
+Hard=Difficile
+Harder=Difficilissimo
+Evil=Diabolico
+
+Interrupt opponent's end of turn=Interrompi fine del turno dell'avversario
+Language=Lingua
+
+Cards: %i=Carte: %i
+Credits: %i=Crediti %i
+Sets: %i (of %i)=Set: %i (di %i)
+
+Discard Random=Scarta a Caso
+Game length: %i seconds=Lunghezza partita: %i secondi
+Credits per minute: %i=Crediti al minuto: %i
+
+%i cards.=%i carte.
+[]:other cards=[]:altre carte
+See available tasks=Visualizza task disponibili
+Task Board=Bacheca task
+
+Toggle Images=Immagini Si/No
+View Deck=Guarda Mazzo
+View Collection=Guarda Collez.
+Use SQUARE to view your deck,=Usa QUADRATO per vedere il mazzo,
+Use SQUARE to view collection,=Usa QUADRATO per la collezione,
+
+opponent plays=tocca all'avvers.
+you play=tocca a te
+
+Deck - %i/%i=Mazzo - %i/%i
+in: deck=in: mazzo
+in: collection=in: collezione
+deck=mazzo
+collection=collezione
+
+#new lines - not working
+Spacebar=Spazio
+Confirm=Conferma
+your turn=tuo turno
+(your turn)%s=(tuo turno)%s
+(your turn) %s=(tuo turno) %s
+opponent's turn=turno avversario
+
+# new lines - abilities - why did i forget these before? u.U
+trample=travolgere
+first strike=attacco improvv.
+flying=volare
+vigilance=vigilanza
+double strike=doppio attacco
+shadow=ombra
+shroud=velo
+haste=rapidita'
+scry=profetizzare
+regeneration=rigenerazione
+
+#Others
+
+Add %i=Aggiungi %i
+Add %i mana=Aggiungi %i mana
+
+#Shop
+press [] to refresh=premi [] per cambiare
+credits: %i=crediti: %i
+
+# Not Working Lines - maybe not yet implemented for translation
+# Linee non funzionanti - probabilmente non sono ancora state implementate per essere tradotte
+Your Deck:=Mazzo:
+Your Deck=Mazzo
+Database: %i cards=Database: %i carte
+Collection=Collezione
+Collection - %i/%i=Collezione - %i/%i
+DECK: %i=MAZZO: %i
+DECK:%i=MAZZO:%i
+
+
+#types
+artifact=artefatto
+enchantment=incantesimo
+sorcery=stregoneria
+instant=istantaneo
+land=terra
+
+#subtypes
+#please keep the english alphabetical order, makes it easier to update!
+angel=angelo
+basic=base
+bird=uccello
+cat=gatto
+centaur=centauro
+elf=elfo
+forest=foresta
+hound=segugio
+human=umano
+island=isola
+knight=cavaliere
+mountain=montagna
+plains=pianura
+sliver=tramutante
+sorcerer=stregone
+soldier=soldato
+specter=spettro
+spider=ragno
+swamp=palude
+warrior=guerriero
+wolf=lupo
+wurm=verme

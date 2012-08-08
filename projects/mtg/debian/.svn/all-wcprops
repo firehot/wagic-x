@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4465/trunk/projects/mtg/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3808/trunk/projects/mtg/debian/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2371/trunk/projects/mtg/debian/compat
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4465/trunk/projects/mtg/debian/changelog
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2366/trunk/projects/mtg/debian/copyright
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2390/trunk/projects/mtg/debian/rules
+END

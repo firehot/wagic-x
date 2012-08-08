@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/render/opengles2
+END
+SDL_shaders_gles2.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/render/opengles2/SDL_shaders_gles2.c
+END
+SDL_shaders_gles2.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/render/opengles2/SDL_shaders_gles2.h
+END
+SDL_render_gles2.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/render/opengles2/SDL_render_gles2.c
+END

@@ -1,0 +1,79 @@
+#Plain black deck
+#NAME:Terror
+#DESC:They groaned, they stirred, 
+#DESC:they all uprose,
+#DESC:Nor spake, nor moved their eyes;
+#DESC:It had been strange, 
+#DESC:even in a dream,
+#DESC:To have seen those dead men rise
+#4x Hypnotic Specter
+129600
+129600
+129600
+129600
+#4x Terror
+135199
+135199
+135199
+135199
+#4x Bad moon
+1144
+1144
+1144
+1144
+#4x Severed Legion
+129693
+129693
+129693
+129693
+#4x Unholy Strength
+129780
+129780
+129780
+129780
+#4x Black Vise
+1097
+1097
+1097
+1097
+#4x Black Knight
+1145
+1145
+1145
+1145
+#4x Bog Wraith
+129491
+129491
+129491
+129491
+#4x Will-o'-the-Wisp
+1187
+1187
+1187
+1187
+#4x Zombie Master
+1188
+1188
+1188
+1188
+#20 x Swamp
+1373
+1373
+1373
+1373
+1373
+1373
+1373
+1373
+1373
+1373
+1373
+1373
+1373
+1373
+1373
+1373
+1373
+1373
+1373
+1373

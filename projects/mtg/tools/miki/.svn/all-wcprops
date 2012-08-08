@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4350/trunk/projects/mtg/tools/miki
+END
+todo_cards.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4350/trunk/projects/mtg/tools/miki/todo_cards.txt
+END
+supported_cards.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4350/trunk/projects/mtg/tools/miki/supported_cards.txt
+END
+getSupportedCardNames.bash
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4146/trunk/projects/mtg/tools/miki/getSupportedCardNames.bash
+END
+createHTMLList_SupportedCards.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4328/trunk/projects/mtg/tools/miki/createHTMLList_SupportedCards.pl
+END
+todoList.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4350/trunk/projects/mtg/tools/miki/todoList.html
+END
+cardList.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4350/trunk/projects/mtg/tools/miki/cardList.html
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2869/trunk/projects/mtg/tools/miki/README
+END

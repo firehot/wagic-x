@@ -1,0 +1,89 @@
+10
+
+dir
+4486
+http://wagic.googlecode.com/svn/trunk/projects/mtg/bin/Res/campaigns/Game%20Manual
+http://wagic.googlecode.com/svn
+
+
+
+2011-07-12T15:02:41.836021Z
+3790
+wagic.the.homebrew
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+01922e74-a4c3-11dd-a5cd-697bfd0a0cef
+
+story.xml
+file
+
+
+
+
+2012-08-03T01:07:50.000000Z
+2c408da8ca31a48f7435eb54215b5985
+2010-06-13T04:43:15.238229Z
+2090
+wagic.the.homebrew@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15271
+
+tap_mana
+dir
+
+play_land
+dir
+
+_gfx
+dir
+
+attack
+dir
+
+cast_spell_1
+dir
+
+block
+dir
+
+cast_spell_2
+dir
+
+play_target
+dir
+
+interrupt
+dir
+

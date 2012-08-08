@@ -1,0 +1,527 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4329/trunk/projects/mtg/bin/Res/test/generic
+END
+tokens.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1247/trunk/projects/mtg/bin/Res/test/generic/tokens.txt
+END
+indestructible_2_i570.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3708/trunk/projects/mtg/bin/Res/test/generic/indestructible_2_i570.txt
+END
+level_up.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1986/trunk/projects/mtg/bin/Res/test/generic/level_up.txt
+END
+fear.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1029/trunk/projects/mtg/bin/Res/test/generic/fear.txt
+END
+bushido_1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2457/trunk/projects/mtg/bin/Res/test/generic/bushido_1.txt
+END
+skip_turn.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4329/trunk/projects/mtg/bin/Res/test/generic/skip_turn.txt
+END
+bushido_2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2457/trunk/projects/mtg/bin/Res/test/generic/bushido_2.txt
+END
+triggers_at_movedto_i179.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1262/trunk/projects/mtg/bin/Res/test/generic/triggers_at_movedto_i179.txt
+END
+exalted_i310.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1806/trunk/projects/mtg/bin/Res/test/generic/exalted_i310.txt
+END
+phases.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/839/trunk/projects/mtg/bin/Res/test/generic/phases.txt
+END
+lands_max_per_turn.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3116/trunk/projects/mtg/bin/Res/test/generic/lands_max_per_turn.txt
+END
+exalted.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1714/trunk/projects/mtg/bin/Res/test/generic/exalted.txt
+END
+cycling.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1462/trunk/projects/mtg/bin/Res/test/generic/cycling.txt
+END
+deathtouch.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/835/trunk/projects/mtg/bin/Res/test/generic/deathtouch.txt
+END
+tap_other_card_as_cost.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2146/trunk/projects/mtg/bin/Res/test/generic/tap_other_card_as_cost.txt
+END
+equip_shroud2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1475/trunk/projects/mtg/bin/Res/test/generic/equip_shroud2.txt
+END
+flanking.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2791/trunk/projects/mtg/bin/Res/test/generic/flanking.txt
+END
+lifelink.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/251/trunk/projects/mtg/bin/Res/test/generic/lifelink.txt
+END
+trample_vs_multiblock.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1259/trunk/projects/mtg/bin/Res/test/generic/trample_vs_multiblock.txt
+END
+m10_blockers2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/940/trunk/projects/mtg/bin/Res/test/generic/m10_blockers2.txt
+END
+becomes_transform_i559_2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3189/trunk/projects/mtg/bin/Res/test/generic/becomes_transform_i559_2.txt
+END
+trigger_noncombatdamaged.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2482/trunk/projects/mtg/bin/Res/test/generic/trigger_noncombatdamaged.txt
+END
+equipment_i252.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1681/trunk/projects/mtg/bin/Res/test/generic/equipment_i252.txt
+END
+first_strike.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/839/trunk/projects/mtg/bin/Res/test/generic/first_strike.txt
+END
+kicker.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2437/trunk/projects/mtg/bin/Res/test/generic/kicker.txt
+END
+targetController_life2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1211/trunk/projects/mtg/bin/Res/test/generic/targetController_life2.txt
+END
+persist2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/202/trunk/projects/mtg/bin/Res/test/generic/persist2.txt
+END
+persist3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/812/trunk/projects/mtg/bin/Res/test/generic/persist3.txt
+END
+first_and_double_strike1_i187.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1274/trunk/projects/mtg/bin/Res/test/generic/first_and_double_strike1_i187.txt
+END
+summoning_sickness.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/911/trunk/projects/mtg/bin/Res/test/generic/summoning_sickness.txt
+END
+indestructible.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2877/trunk/projects/mtg/bin/Res/test/generic/indestructible.txt
+END
+m10_blockers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/940/trunk/projects/mtg/bin/Res/test/generic/m10_blockers.txt
+END
+equip_landfall_buff.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1448/trunk/projects/mtg/bin/Res/test/generic/equip_landfall_buff.txt
+END
+doesnotuntap.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1180/trunk/projects/mtg/bin/Res/test/generic/doesnotuntap.txt
+END
+becomes_transform_i559.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2818/trunk/projects/mtg/bin/Res/test/generic/becomes_transform_i559.txt
+END
+oneblocker.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1838/trunk/projects/mtg/bin/Res/test/generic/oneblocker.txt
+END
+sunburst.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2457/trunk/projects/mtg/bin/Res/test/generic/sunburst.txt
+END
+tokens2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1292/trunk/projects/mtg/bin/Res/test/generic/tokens2.txt
+END
+sacrifice.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/205/trunk/projects/mtg/bin/Res/test/generic/sacrifice.txt
+END
+trigger_attacking.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2482/trunk/projects/mtg/bin/Res/test/generic/trigger_attacking.txt
+END
+persist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1/trunk/projects/mtg/bin/Res/test/generic/persist.txt
+END
+targetController_life.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1211/trunk/projects/mtg/bin/Res/test/generic/targetController_life.txt
+END
+double_strike.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1274/trunk/projects/mtg/bin/Res/test/generic/double_strike.txt
+END
+level_up2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1986/trunk/projects/mtg/bin/Res/test/generic/level_up2.txt
+END
+rampage2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1115/trunk/projects/mtg/bin/Res/test/generic/rampage2.txt
+END
+hybrid_mana_2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/195/trunk/projects/mtg/bin/Res/test/generic/hybrid_mana_2.txt
+END
+trigger_drawn.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2482/trunk/projects/mtg/bin/Res/test/generic/trigger_drawn.txt
+END
+rampage3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1432/trunk/projects/mtg/bin/Res/test/generic/rampage3.txt
+END
+hybrid_mana_3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/196/trunk/projects/mtg/bin/Res/test/generic/hybrid_mana_3.txt
+END
+nofizzle.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1401/trunk/projects/mtg/bin/Res/test/generic/nofizzle.txt
+END
+trigger_untapped.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2482/trunk/projects/mtg/bin/Res/test/generic/trigger_untapped.txt
+END
+lord_counter_any.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1981/trunk/projects/mtg/bin/Res/test/generic/lord_counter_any.txt
+END
+regenerate_wither_i146.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1234/trunk/projects/mtg/bin/Res/test/generic/regenerate_wither_i146.txt
+END
+fresh.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2457/trunk/projects/mtg/bin/Res/test/generic/fresh.txt
+END
+legendary.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1/trunk/projects/mtg/bin/Res/test/generic/legendary.txt
+END
+hybrid_mana.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1/trunk/projects/mtg/bin/Res/test/generic/hybrid_mana.txt
+END
+first_and_double_strike2_i187.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1274/trunk/projects/mtg/bin/Res/test/generic/first_and_double_strike2_i187.txt
+END
+fear_i147.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1247/trunk/projects/mtg/bin/Res/test/generic/fear_i147.txt
+END
+regenerate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/797/trunk/projects/mtg/bin/Res/test/generic/regenerate.txt
+END
+attacks_each_turn.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/252/trunk/projects/mtg/bin/Res/test/generic/attacks_each_turn.txt
+END
+trigger_blocked.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2482/trunk/projects/mtg/bin/Res/test/generic/trigger_blocked.txt
+END
+extra_turn.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4329/trunk/projects/mtg/bin/Res/test/generic/extra_turn.txt
+END
+thisforeach.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1986/trunk/projects/mtg/bin/Res/test/generic/thisforeach.txt
+END
+wither.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1/trunk/projects/mtg/bin/Res/test/generic/wither.txt
+END
+trample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1259/trunk/projects/mtg/bin/Res/test/generic/trample.txt
+END
+equip_wither.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1475/trunk/projects/mtg/bin/Res/test/generic/equip_wither.txt
+END
+doesnotuntap2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1180/trunk/projects/mtg/bin/Res/test/generic/doesnotuntap2.txt
+END
+equip_shroud.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1475/trunk/projects/mtg/bin/Res/test/generic/equip_shroud.txt
+END
+must1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1685/trunk/projects/mtg/bin/Res/test/generic/must1.txt
+END
+must2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1685/trunk/projects/mtg/bin/Res/test/generic/must2.txt
+END
+cycling2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4070/trunk/projects/mtg/bin/Res/test/generic/cycling2.txt
+END
+trigger_combatdamaged_1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2482/trunk/projects/mtg/bin/Res/test/generic/trigger_combatdamaged_1.txt
+END
+preventalldamage.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2457/trunk/projects/mtg/bin/Res/test/generic/preventalldamage.txt
+END
+trigger_blocking.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3396/trunk/projects/mtg/bin/Res/test/generic/trigger_blocking.txt
+END
+trample_vs_indestructible.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1259/trunk/projects/mtg/bin/Res/test/generic/trample_vs_indestructible.txt
+END
+rampage.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/547/trunk/projects/mtg/bin/Res/test/generic/rampage.txt
+END
+trigger_combatdamaged_2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2482/trunk/projects/mtg/bin/Res/test/generic/trigger_combatdamaged_2.txt
+END
+rampage_vs_first_strike.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1249/trunk/projects/mtg/bin/Res/test/generic/rampage_vs_first_strike.txt
+END
+equip_reach.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1440/trunk/projects/mtg/bin/Res/test/generic/equip_reach.txt
+END
+exalted_i143.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1714/trunk/projects/mtg/bin/Res/test/generic/exalted_i143.txt
+END
+targetController_damage.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1211/trunk/projects/mtg/bin/Res/test/generic/targetController_damage.txt
+END
+kicker2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3513/trunk/projects/mtg/bin/Res/test/generic/kicker2.txt
+END
+first_strike2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/839/trunk/projects/mtg/bin/Res/test/generic/first_strike2.txt
+END
+first_strike3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/839/trunk/projects/mtg/bin/Res/test/generic/first_strike3.txt
+END
+landwalk.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1527/trunk/projects/mtg/bin/Res/test/generic/landwalk.txt
+END
+changeling_i501.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3666/trunk/projects/mtg/bin/Res/test/generic/changeling_i501.txt
+END
+lord_counter.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1985/trunk/projects/mtg/bin/Res/test/generic/lord_counter.txt
+END

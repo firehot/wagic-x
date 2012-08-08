@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3700/trunk/JGE/Dependencies/SDL/VisualC/SDL
+END
+SDL_VS2010.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3692/trunk/JGE/Dependencies/SDL/VisualC/SDL/SDL_VS2010.vcxproj
+END
+Version.rc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3684/trunk/JGE/Dependencies/SDL/VisualC/SDL/Version.rc
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3684/trunk/JGE/Dependencies/SDL/VisualC/SDL/resource.h
+END
+SDL_VS2010.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3700/trunk/JGE/Dependencies/SDL/VisualC/SDL/SDL_VS2010.vcxproj.filters
+END

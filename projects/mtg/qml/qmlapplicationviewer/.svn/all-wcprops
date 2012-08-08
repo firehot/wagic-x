@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4199/trunk/projects/mtg/qml/qmlapplicationviewer
+END
+qmlapplicationviewer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4199/trunk/projects/mtg/qml/qmlapplicationviewer/qmlapplicationviewer.cpp
+END
+qmlapplicationviewer.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4123/trunk/projects/mtg/qml/qmlapplicationviewer/qmlapplicationviewer.h
+END
+qmlapplicationviewer.pri
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4123/trunk/projects/mtg/qml/qmlapplicationviewer/qmlapplicationviewer.pri
+END

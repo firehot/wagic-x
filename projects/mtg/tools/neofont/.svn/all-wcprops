@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2182/trunk/projects/mtg/tools/neofont
+END
+mono.ttf
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2182/trunk/projects/mtg/tools/neofont/mono.ttf
+END
+gkai00mp.ttf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2145/trunk/projects/mtg/tools/neofont/gkai00mp.ttf
+END
+neofont.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2182/trunk/projects/mtg/tools/neofont/neofont.c
+END
+fallback.ttf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2145/trunk/projects/mtg/tools/neofont/fallback.ttf
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2182/trunk/projects/mtg/tools/neofont/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2182/trunk/projects/mtg/tools/neofont/Makefile
+END

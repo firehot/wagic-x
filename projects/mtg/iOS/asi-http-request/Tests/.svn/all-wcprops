@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests
+END
+PerformanceTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/PerformanceTests.m
+END
+ASIFormDataRequestTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/ASIFormDataRequestTests.m
+END
+BlocksTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/BlocksTests.h
+END
+ASIWebPageRequestTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/ASIWebPageRequestTests.h
+END
+ClientCertificateTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/ClientCertificateTests.h
+END
+ProxyTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/ProxyTests.h
+END
+BlocksTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/BlocksTests.m
+END
+StressTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/StressTests.h
+END
+ASIDataCompressorTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/ASIDataCompressorTests.h
+END
+GHUnitTestMain.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/GHUnitTestMain.m
+END
+ASITestCase.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/ASITestCase.h
+END
+ASIHTTPRequestTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/ASIHTTPRequestTests.h
+END
+ASIWebPageRequestTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/ASIWebPageRequestTests.m
+END
+ProxyTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/ProxyTests.m
+END
+ClientCertificateTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/ClientCertificateTests.m
+END
+ASIDownloadCacheTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/ASIDownloadCacheTests.h
+END
+ASIDataCompressorTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/ASIDataCompressorTests.m
+END
+StressTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/StressTests.m
+END
+ASITestCase.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/ASITestCase.m
+END
+ASIHTTPRequestTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/ASIHTTPRequestTests.m
+END
+ASIS3RequestTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/ASIS3RequestTests.h
+END
+ASINetworkQueueTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/ASINetworkQueueTests.h
+END
+ASIDownloadCacheTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/ASIDownloadCacheTests.m
+END
+ASICloudFilesRequestTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/ASICloudFilesRequestTests.h
+END
+ASINetworkQueueTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/ASINetworkQueueTests.m
+END
+ASIS3RequestTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/ASIS3RequestTests.m
+END
+PerformanceTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/PerformanceTests.h
+END
+ASIFormDataRequestTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/ASIFormDataRequestTests.h
+END
+ASICloudFilesRequestTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4093/trunk/projects/mtg/iOS/asi-http-request/Tests/ASICloudFilesRequestTests.m
+END

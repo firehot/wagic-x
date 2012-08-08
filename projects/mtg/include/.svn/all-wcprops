@@ -1,0 +1,713 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4477/trunk/projects/mtg/include
+END
+TextScroller.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2956/trunk/projects/mtg/include/TextScroller.h
+END
+Navigator.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3977/trunk/projects/mtg/include/Navigator.h
+END
+SimpleMenuItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4215/trunk/projects/mtg/include/SimpleMenuItem.h
+END
+Translate.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2956/trunk/projects/mtg/include/Translate.h
+END
+WFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2956/trunk/projects/mtg/include/WFont.h
+END
+AllAbilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4477/trunk/projects/mtg/include/AllAbilities.h
+END
+GuiFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3976/trunk/projects/mtg/include/GuiFrame.h
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4128/trunk/projects/mtg/include/utils.h
+END
+DeckDataWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2956/trunk/projects/mtg/include/DeckDataWrapper.h
+END
+MTGGamePhase.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4075/trunk/projects/mtg/include/MTGGamePhase.h
+END
+ManaCost.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4392/trunk/projects/mtg/include/ManaCost.h
+END
+MTGAbility.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4368/trunk/projects/mtg/include/MTGAbility.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4469/trunk/projects/mtg/include/config.h
+END
+MTGCardInstance.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4477/trunk/projects/mtg/include/MTGCardInstance.h
+END
+GameStateTransitions.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2956/trunk/projects/mtg/include/GameStateTransitions.h
+END
+WEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4331/trunk/projects/mtg/include/WEvent.h
+END
+TargetChooser.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4477/trunk/projects/mtg/include/TargetChooser.h
+END
+DuelLayers.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4075/trunk/projects/mtg/include/DuelLayers.h
+END
+WResourceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4276/trunk/projects/mtg/include/WResourceManager.h
+END
+GameState.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4224/trunk/projects/mtg/include/GameState.h
+END
+GuiCombat.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4138/trunk/projects/mtg/include/GuiCombat.h
+END
+Targetable.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4071/trunk/projects/mtg/include/Targetable.h
+END
+PrecompiledHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4230/trunk/projects/mtg/include/PrecompiledHeader.h
+END
+SimplePopup.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4217/trunk/projects/mtg/include/SimplePopup.h
+END
+Subtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4309/trunk/projects/mtg/include/Subtypes.h
+END
+Token.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4080/trunk/projects/mtg/include/Token.h
+END
+MTGCard.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3843/trunk/projects/mtg/include/MTGCard.h
+END
+GameOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4104/trunk/projects/mtg/include/GameOptions.h
+END
+DeckStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3101/trunk/projects/mtg/include/DeckStats.h
+END
+SimpleButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4342/trunk/projects/mtg/include/SimpleButton.h
+END
+ActionElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4080/trunk/projects/mtg/include/ActionElement.h
+END
+TranslateKeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2956/trunk/projects/mtg/include/TranslateKeys.h
+END
+Rules.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4080/trunk/projects/mtg/include/Rules.h
+END
+GuiStatic.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3758/trunk/projects/mtg/include/GuiStatic.h
+END
+CardSelectorSingleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3976/trunk/projects/mtg/include/CardSelectorSingleton.h
+END
+PriceList.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2956/trunk/projects/mtg/include/PriceList.h
+END
+AIHints.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4391/trunk/projects/mtg/include/AIHints.h
+END
+PlayGuiObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3711/trunk/projects/mtg/include/PlayGuiObject.h
+END
+DeckEditorMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2956/trunk/projects/mtg/include/DeckEditorMenu.h
+END
+GuiLayers.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3976/trunk/projects/mtg/include/GuiLayers.h
+END
+GameStateShop.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4243/trunk/projects/mtg/include/GameStateShop.h
+END
+WDataSrc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3008/trunk/projects/mtg/include/WDataSrc.h
+END
+GameApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4266/trunk/projects/mtg/include/GameApp.h
+END
+ActionLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4124/trunk/projects/mtg/include/ActionLayer.h
+END
+AIMomirPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4045/trunk/projects/mtg/include/AIMomirPlayer.h
+END
+AbilityParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4035/trunk/projects/mtg/include/AbilityParser.h
+END
+DeckMenuItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4226/trunk/projects/mtg/include/DeckMenuItem.h
+END
+ExtraCost.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4380/trunk/projects/mtg/include/ExtraCost.h
+END
+GameStateAwards.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4224/trunk/projects/mtg/include/GameStateAwards.h
+END
+SimpleMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4338/trunk/projects/mtg/include/SimpleMenu.h
+END
+SimplePad.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4104/trunk/projects/mtg/include/SimplePad.h
+END
+Effects.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2956/trunk/projects/mtg/include/Effects.h
+END
+Trash.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4046/trunk/projects/mtg/include/Trash.h
+END
+GuiMana.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3008/trunk/projects/mtg/include/GuiMana.h
+END
+GameStateOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2956/trunk/projects/mtg/include/GameStateOptions.h
+END
+GuiPhaseBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3976/trunk/projects/mtg/include/GuiPhaseBar.h
+END
+WResourceManagerImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3989/trunk/projects/mtg/include/WResourceManagerImpl.h
+END
+Player.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4339/trunk/projects/mtg/include/Player.h
+END
+Wagic_Version.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4457/trunk/projects/mtg/include/Wagic_Version.h
+END
+GameStateMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4096/trunk/projects/mtg/include/GameStateMenu.h
+END
+CardDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3976/trunk/projects/mtg/include/CardDisplay.h
+END
+ReplacementEffects.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4335/trunk/projects/mtg/include/ReplacementEffects.h
+END
+MTGGameZones.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4322/trunk/projects/mtg/include/MTGGameZones.h
+END
+CardPrimitive.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4124/trunk/projects/mtg/include/CardPrimitive.h
+END
+MTGRules.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4477/trunk/projects/mtg/include/MTGRules.h
+END
+ActionStack.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4164/trunk/projects/mtg/include/ActionStack.h
+END
+DamagerDamaged.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2956/trunk/projects/mtg/include/DamagerDamaged.h
+END
+PlayGuiObjectController.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3976/trunk/projects/mtg/include/PlayGuiObjectController.h
+END
+GuiAvatars.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3976/trunk/projects/mtg/include/GuiAvatars.h
+END
+DeckMetaData.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3607/trunk/projects/mtg/include/DeckMetaData.h
+END
+ManaCostHybrid.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3559/trunk/projects/mtg/include/ManaCostHybrid.h
+END
+CardDescriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3869/trunk/projects/mtg/include/CardDescriptor.h
+END
+AIStats.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2956/trunk/projects/mtg/include/AIStats.h
+END
+CardSelector.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4114/trunk/projects/mtg/include/CardSelector.h
+END
+GuiPlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3976/trunk/projects/mtg/include/GuiPlay.h
+END
+GameStateStory.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2956/trunk/projects/mtg/include/GameStateStory.h
+END
+WGui.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4002/trunk/projects/mtg/include/WGui.h
+END
+MTGDeck.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4339/trunk/projects/mtg/include/MTGDeck.h
+END
+WResource_Fwd.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3008/trunk/projects/mtg/include/WResource_Fwd.h
+END
+ObjectAnalytics.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3523/trunk/projects/mtg/include/ObjectAnalytics.h
+END
+Damage.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3992/trunk/projects/mtg/include/Damage.h
+END
+GuiHand.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3976/trunk/projects/mtg/include/GuiHand.h
+END
+MenuItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3852/trunk/projects/mtg/include/MenuItem.h
+END
+GameStateDeckViewer.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4341/trunk/projects/mtg/include/GameStateDeckViewer.h
+END
+OSD.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2956/trunk/projects/mtg/include/OSD.h
+END
+Tasks.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3976/trunk/projects/mtg/include/Tasks.h
+END
+MTGPack.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2956/trunk/projects/mtg/include/MTGPack.h
+END
+OptionItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3468/trunk/projects/mtg/include/OptionItem.h
+END
+CacheEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4088/trunk/projects/mtg/include/CacheEngine.h
+END
+ModRules.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4280/trunk/projects/mtg/include/ModRules.h
+END
+StyleManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2956/trunk/projects/mtg/include/StyleManager.h
+END
+DeckMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4287/trunk/projects/mtg/include/DeckMenu.h
+END
+Credits.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3989/trunk/projects/mtg/include/Credits.h
+END
+DeckManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4075/trunk/projects/mtg/include/DeckManager.h
+END
+Pos.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4138/trunk/projects/mtg/include/Pos.h
+END
+Counters.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4237/trunk/projects/mtg/include/Counters.h
+END
+TestSuiteAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4080/trunk/projects/mtg/include/TestSuiteAI.h
+END
+TargetsList.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4306/trunk/projects/mtg/include/TargetsList.h
+END
+GuiCardsController.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3976/trunk/projects/mtg/include/GuiCardsController.h
+END
+WCachedResource.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3463/trunk/projects/mtg/include/WCachedResource.h
+END
+AIPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4096/trunk/projects/mtg/include/AIPlayer.h
+END
+ThisDescriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4239/trunk/projects/mtg/include/ThisDescriptor.h
+END
+NetworkPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3247/trunk/projects/mtg/include/NetworkPlayer.h
+END
+StoryFlow.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3927/trunk/projects/mtg/include/StoryFlow.h
+END
+InteractiveButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4232/trunk/projects/mtg/include/InteractiveButton.h
+END
+WFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2986/trunk/projects/mtg/include/WFilter.h
+END
+CardGui.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4280/trunk/projects/mtg/include/CardGui.h
+END
+PlayRestrictions.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3853/trunk/projects/mtg/include/PlayRestrictions.h
+END
+PhaseRing.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4310/trunk/projects/mtg/include/PhaseRing.h
+END
+GameObserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4339/trunk/projects/mtg/include/GameObserver.h
+END
+MTGDefinitions.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4477/trunk/projects/mtg/include/MTGDefinitions.h
+END
+GameStateDuel.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4339/trunk/projects/mtg/include/GameStateDuel.h
+END
+GuiBackground.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3976/trunk/projects/mtg/include/GuiBackground.h
+END
+IconButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4064/trunk/projects/mtg/include/IconButton.h
+END
+AIPlayerBaka.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4246/trunk/projects/mtg/include/AIPlayerBaka.h
+END
+PlayerData.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2956/trunk/projects/mtg/include/PlayerData.h
+END
+CardEffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2956/trunk/projects/mtg/include/CardEffect.h
+END
+AIPlayerBakaB.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4244/trunk/projects/mtg/include/AIPlayerBakaB.h
+END

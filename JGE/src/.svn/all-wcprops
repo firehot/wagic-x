@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/4469/trunk/JGE/src
+END
+JGui.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4352/trunk/JGE/src/JGui.cpp
+END
+JSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3247/trunk/JGE/src/JSocket.cpp
+END
+winmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3407/trunk/JGE/src/winmain.cpp
+END
+JSpline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2957/trunk/JGE/src/JSpline.cpp
+END
+JMP3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3464/trunk/JGE/src/JMP3.cpp
+END
+JGameObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2957/trunk/JGE/src/JGameObject.cpp
+END
+JParticle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2957/trunk/JGE/src/JParticle.cpp
+END
+JMD2Model.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3934/trunk/JGE/src/JMD2Model.cpp
+END
+JSprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3502/trunk/JGE/src/JSprite.cpp
+END
+glutmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2957/trunk/JGE/src/glutmain.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4196/trunk/JGE/src/main.cpp
+END
+JDistortionMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2957/trunk/JGE/src/JDistortionMesh.cpp
+END
+Encoding.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3569/trunk/JGE/src/Encoding.cpp
+END
+Vector2D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2957/trunk/JGE/src/Vector2D.cpp
+END
+JLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4096/trunk/JGE/src/JLogger.cpp
+END
+JApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2957/trunk/JGE/src/JApp.cpp
+END
+JParticleEffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2957/trunk/JGE/src/JParticleEffect.cpp
+END
+decoder_prx.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2957/trunk/JGE/src/decoder_prx.c
+END
+JGfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3858/trunk/JGE/src/JGfx.cpp
+END
+JFileSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4299/trunk/JGE/src/JFileSystem.cpp
+END
+JLBFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3853/trunk/JGE/src/JLBFont.cpp
+END
+JNetwork.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3247/trunk/JGE/src/JNetwork.cpp
+END
+JGBKFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3551/trunk/JGE/src/JGBKFont.cpp
+END
+JOBJModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4000/trunk/JGE/src/JOBJModel.cpp
+END
+vram.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2957/trunk/JGE/src/vram.c
+END
+JGE.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4301/trunk/JGE/src/JGE.cpp
+END
+JParticleEmitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2957/trunk/JGE/src/JParticleEmitter.cpp
+END
+JSfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4268/trunk/JGE/src/JSfx.cpp
+END
+JAudio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3781/trunk/JGE/src/JAudio.cpp
+END
+JCooleyesMP3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2957/trunk/JGE/src/JCooleyesMP3.cpp
+END
+Xmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3762/trunk/JGE/src/Xmain.cpp
+END
+testfeatures.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2957/trunk/JGE/src/testfeatures.c
+END
+JParticleSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3094/trunk/JGE/src/JParticleSystem.cpp
+END
+JAnimator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2957/trunk/JGE/src/JAnimator.cpp
+END
+SDLmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4289/trunk/JGE/src/SDLmain.cpp
+END
+JTTFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2957/trunk/JGE/src/JTTFont.cpp
+END
+Qtmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4199/trunk/JGE/src/Qtmain.cpp
+END
+JResourceManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4469/trunk/JGE/src/JResourceManager.cpp
+END

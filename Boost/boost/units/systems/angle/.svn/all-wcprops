@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2640/trunk/Boost/boost/units/systems/angle
+END
+revolutions.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2640/trunk/Boost/boost/units/systems/angle/revolutions.hpp
+END
+degrees.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2640/trunk/Boost/boost/units/systems/angle/degrees.hpp
+END
+gradians.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2640/trunk/Boost/boost/units/systems/angle/gradians.hpp
+END

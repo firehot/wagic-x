@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4422/trunk/JGE/src/iOS
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2957/trunk/JGE/src/iOS/main.m
+END
+wagicAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4291/trunk/JGE/src/iOS/wagicAppDelegate.m
+END
+EAGLViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4265/trunk/JGE/src/iOS/EAGLViewController.m
+END
+ESRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2957/trunk/JGE/src/iOS/ESRenderer.h
+END
+ES2Renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2957/trunk/JGE/src/iOS/ES2Renderer.h
+END
+EAGLViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2957/trunk/JGE/src/iOS/EAGLViewController.xib
+END
+EAGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4265/trunk/JGE/src/iOS/EAGLView.h
+END
+ES2Renderer.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4102/trunk/JGE/src/iOS/ES2Renderer.m
+END
+JSfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4269/trunk/JGE/src/iOS/JSfx.cpp
+END
+wagicAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4163/trunk/JGE/src/iOS/wagicAppDelegate.h
+END
+EAGLViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4265/trunk/JGE/src/iOS/EAGLViewController.h
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2957/trunk/JGE/src/iOS/MainWindow.xib
+END
+EAGLView.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4422/trunk/JGE/src/iOS/EAGLView.m
+END

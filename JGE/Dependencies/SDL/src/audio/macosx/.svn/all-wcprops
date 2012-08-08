@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/audio/macosx
+END
+SDL_coreaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/audio/macosx/SDL_coreaudio.h
+END
+SDL_coreaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/audio/macosx/SDL_coreaudio.c
+END

@@ -1,0 +1,521 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4096/trunk/projects/mtg/bin/Res/graphics
+END
+magic.font
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2616/trunk/projects/mtg/bin/Res/graphics/magic.font
+END
+magic.asc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2182/trunk/projects/mtg/bin/Res/graphics/magic.asc
+END
+magic.dat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/94/trunk/projects/mtg/bin/Res/graphics/magic.dat
+END
+simon.font
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2616/trunk/projects/mtg/bin/Res/graphics/simon.font
+END
+trophy_prx_rnddeck.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2033/trunk/projects/mtg/bin/Res/graphics/trophy_prx_rnddeck.png
+END
+Ok.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1194/trunk/projects/mtg/bin/Res/graphics/Ok.png
+END
+menuside.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1364/trunk/projects/mtg/bin/Res/graphics/menuside.png
+END
+themeinfo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1364/trunk/projects/mtg/bin/Res/graphics/themeinfo.txt
+END
+menucorner.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1194/trunk/projects/mtg/bin/Res/graphics/menucorner.png
+END
+button_shoulder.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1895/trunk/projects/mtg/bin/Res/graphics/button_shoulder.png
+END
+mana.psi
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/691/trunk/projects/mtg/bin/Res/graphics/mana.psi
+END
+BattleIcon.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1194/trunk/projects/mtg/bin/Res/graphics/BattleIcon.png
+END
+manawhite.psi
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/691/trunk/projects/mtg/bin/Res/graphics/manawhite.psi
+END
+simon.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1364/trunk/projects/mtg/bin/Res/graphics/simon.png
+END
+eviltwin_unlocked.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2033/trunk/projects/mtg/bin/Res/graphics/eviltwin_unlocked.png
+END
+smallface.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1194/trunk/projects/mtg/bin/Res/graphics/smallface.png
+END
+f3.font
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2616/trunk/projects/mtg/bin/Res/graphics/f3.font
+END
+f3.asc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2182/trunk/projects/mtg/bin/Res/graphics/f3.asc
+END
+randomdeck_unlocked.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2033/trunk/projects/mtg/bin/Res/graphics/randomdeck_unlocked.png
+END
+manablue.psi
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/691/trunk/projects/mtg/bin/Res/graphics/manablue.psi
+END
+f3.dat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/94/trunk/projects/mtg/bin/Res/graphics/f3.dat
+END
+unlocked.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2033/trunk/projects/mtg/bin/Res/graphics/unlocked.png
+END
+menutitle.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1364/trunk/projects/mtg/bin/Res/graphics/menutitle.png
+END
+noavatar.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3477/trunk/projects/mtg/bin/Res/graphics/noavatar.jpg
+END
+momir_unlocked.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2033/trunk/projects/mtg/bin/Res/graphics/momir_unlocked.png
+END
+top_corner.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2659/trunk/projects/mtg/bin/Res/graphics/top_corner.png
+END
+ai_unlocked.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2687/trunk/projects/mtg/bin/Res/graphics/ai_unlocked.png
+END
+goldglow.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1364/trunk/projects/mtg/bin/Res/graphics/goldglow.png
+END
+set_unlocked.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2033/trunk/projects/mtg/bin/Res/graphics/set_unlocked.png
+END
+shop_aliasing.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1194/trunk/projects/mtg/bin/Res/graphics/shop_aliasing.png
+END
+magic.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1364/trunk/projects/mtg/bin/Res/graphics/magic.png
+END
+backdrop.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1552/trunk/projects/mtg/bin/Res/graphics/backdrop.jpg
+END
+trophy.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2033/trunk/projects/mtg/bin/Res/graphics/trophy.png
+END
+particle1.psi
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/projects/mtg/bin/Res/graphics/particle1.psi
+END
+spade_ul.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2436/trunk/projects/mtg/bin/Res/graphics/spade_ul.png
+END
+particle2.psi
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/projects/mtg/bin/Res/graphics/particle2.psi
+END
+spade.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1194/trunk/projects/mtg/bin/Res/graphics/spade.png
+END
+particle3.psi
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/projects/mtg/bin/Res/graphics/particle3.psi
+END
+particle4.psi
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/projects/mtg/bin/Res/graphics/particle4.psi
+END
+particle5.psi
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/projects/mtg/bin/Res/graphics/particle5.psi
+END
+particle6.psi
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/projects/mtg/bin/Res/graphics/particle6.psi
+END
+particle7.psi
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/projects/mtg/bin/Res/graphics/particle7.psi
+END
+spade_ur.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2436/trunk/projects/mtg/bin/Res/graphics/spade_ur.png
+END
+stars.psi
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/126/trunk/projects/mtg/bin/Res/graphics/stars.psi
+END
+simon.gbk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2182/trunk/projects/mtg/bin/Res/graphics/simon.gbk
+END
+vert_bar.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2659/trunk/projects/mtg/bin/Res/graphics/vert_bar.png
+END
+smallface.gbk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2182/trunk/projects/mtg/bin/Res/graphics/smallface.gbk
+END
+jewel.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1194/trunk/projects/mtg/bin/Res/graphics/jewel.png
+END
+shadows.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4096/trunk/projects/mtg/bin/Res/graphics/shadows.png
+END
+f3.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1364/trunk/projects/mtg/bin/Res/graphics/f3.png
+END
+smallface.font
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2616/trunk/projects/mtg/bin/Res/graphics/smallface.font
+END
+avatar.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3519/trunk/projects/mtg/bin/Res/graphics/avatar.jpg
+END
+taskboard.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1952/trunk/projects/mtg/bin/Res/graphics/taskboard.png
+END
+awardback.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2033/trunk/projects/mtg/bin/Res/graphics/awardback.jpg
+END
+manared.psi
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/691/trunk/projects/mtg/bin/Res/graphics/manared.psi
+END
+manablack.psi
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/691/trunk/projects/mtg/bin/Res/graphics/manablack.psi
+END
+preview.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2033/trunk/projects/mtg/bin/Res/graphics/preview.png
+END
+phasebar.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1364/trunk/projects/mtg/bin/Res/graphics/phasebar.png
+END
+particles.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1194/trunk/projects/mtg/bin/Res/graphics/particles.png
+END
+new.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2687/trunk/projects/mtg/bin/Res/graphics/new.png
+END
+shop_light.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1238/trunk/projects/mtg/bin/Res/graphics/shop_light.jpg
+END
+iconspsp.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2907/trunk/projects/mtg/bin/Res/graphics/iconspsp.png
+END
+magic.gbk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2182/trunk/projects/mtg/bin/Res/graphics/magic.gbk
+END
+trophy_prx_eviltwin.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2033/trunk/projects/mtg/bin/Res/graphics/trophy_prx_eviltwin.png
+END
+trophy_set.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2033/trunk/projects/mtg/bin/Res/graphics/trophy_set.png
+END
+menuicons.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1364/trunk/projects/mtg/bin/Res/graphics/menuicons.png
+END
+DeckMenuBackdrop.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3787/trunk/projects/mtg/bin/Res/graphics/DeckMenuBackdrop.png
+END
+managreen.psi
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/691/trunk/projects/mtg/bin/Res/graphics/managreen.psi
+END
+shop.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1194/trunk/projects/mtg/bin/Res/graphics/shop.jpg
+END
+wallpapers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3795/trunk/projects/mtg/bin/Res/graphics/wallpapers.txt
+END
+simon_pink.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1194/trunk/projects/mtg/bin/Res/graphics/simon_pink.png
+END
+simon.asc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2182/trunk/projects/mtg/bin/Res/graphics/simon.asc
+END
+DeckEditorMenuBackdrop.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3787/trunk/projects/mtg/bin/Res/graphics/DeckEditorMenuBackdrop.png
+END
+wood.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1552/trunk/projects/mtg/bin/Res/graphics/wood.png
+END
+smallface.asc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2182/trunk/projects/mtg/bin/Res/graphics/smallface.asc
+END
+simon.dat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/172/trunk/projects/mtg/bin/Res/graphics/simon.dat
+END
+smallface.dat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/627/trunk/projects/mtg/bin/Res/graphics/smallface.dat
+END
+trophy_prx_handler.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2033/trunk/projects/mtg/bin/Res/graphics/trophy_prx_handler.png
+END
+bottom_corner.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2659/trunk/projects/mtg/bin/Res/graphics/bottom_corner.png
+END
+trophy_prx_rimom.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2033/trunk/projects/mtg/bin/Res/graphics/trophy_prx_rimom.png
+END
+DefenderIcon.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1194/trunk/projects/mtg/bin/Res/graphics/DefenderIcon.png
+END
+gold.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1364/trunk/projects/mtg/bin/Res/graphics/gold.png
+END
+top_bar.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2659/trunk/projects/mtg/bin/Res/graphics/top_bar.png
+END
+f3.gbk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2182/trunk/projects/mtg/bin/Res/graphics/f3.gbk
+END
+handback.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1364/trunk/projects/mtg/bin/Res/graphics/handback.png
+END
+menuside2.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1364/trunk/projects/mtg/bin/Res/graphics/menuside2.png
+END

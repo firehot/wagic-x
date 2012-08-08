@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg
+END
+jddctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jddctmgr.c
+END
+jdatadst.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jdatadst.c
+END
+jerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jerror.c
+END
+jchuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jchuff.c
+END
+jdhuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jdhuff.c
+END
+jfdctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jfdctfst.c
+END
+jcmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jcmaster.c
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jerror.h
+END
+jdmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jdmaster.c
+END
+jmemnobs.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jmemnobs.c
+END
+jchuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jchuff.h
+END
+jidctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jidctfst.c
+END
+jdhuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jdhuff.h
+END
+jcparam.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jcparam.c
+END
+jcinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jcinit.c
+END
+jquant1.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jquant1.c
+END
+jquant2.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jquant2.c
+END
+jcphuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jcphuff.c
+END
+jdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jdct.h
+END
+jdatasrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jdatasrc.c
+END
+jccolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jccolor.c
+END
+jcmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jcmarker.c
+END
+jcsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jcsample.c
+END
+jmemmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jmemmgr.c
+END
+jdmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jdmarker.c
+END
+jdsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jdsample.c
+END
+jfdctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jfdctflt.c
+END
+jcapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jcapistd.c
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jmorecfg.h
+END
+jdapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jdapistd.c
+END
+jinclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jinclude.h
+END
+jidctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jidctflt.c
+END
+jversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jversion.h
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/Android.mk
+END
+jpegint.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jpegint.h
+END
+jfdctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jfdctint.c
+END
+jidctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jidctint.c
+END
+jutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jutils.c
+END
+jcprepct.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jcprepct.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/README
+END
+jdmerge.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jdmerge.c
+END
+jdinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jdinput.c
+END
+jccoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jccoefct.c
+END
+jdcoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jdcoefct.c
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jpeglib.h
+END
+jcomapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jcomapi.c
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jconfig.h
+END
+jdphuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jdphuff.c
+END
+jidctred.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jidctred.c
+END
+jcmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jcmainct.c
+END
+jdmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jdmainct.c
+END
+jdpostct.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jdpostct.c
+END
+jcapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jcapimin.c
+END
+jdapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jdapimin.c
+END
+jmemsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jmemsys.h
+END
+jdcolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jdcolor.c
+END
+jcdctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libjpeg/jcdctmgr.c
+END

@@ -1,0 +1,43 @@
+10
+
+dir
+4486
+http://wagic.googlecode.com/svn/trunk/JGE/Dependencies/SDL/src/loadso
+http://wagic.googlecode.com/svn
+
+
+
+2011-04-23T19:25:48.822736Z
+3528
+Xawotihs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+01922e74-a4c3-11dd-a5cd-697bfd0a0cef
+
+dlopen
+dir
+
+beos
+dir
+
+macosx
+dir
+
+windows
+dir
+
+dummy
+dir
+

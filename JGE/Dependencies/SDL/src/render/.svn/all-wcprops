@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/render
+END
+SDL_yuv_sw.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/render/SDL_yuv_sw.c
+END
+SDL_render.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/render/SDL_render.c
+END
+SDL_yuv_sw_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/render/SDL_yuv_sw_c.h
+END
+SDL_sysrender.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/render/SDL_sysrender.h
+END
+mmx.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/render/mmx.h
+END
+SDL_yuv_mmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/render/SDL_yuv_mmx.c
+END

@@ -1,0 +1,79 @@
+#NAME:Jungle
+#DESC:Creatures of the mountains,
+#DESC:forests, and plains,
+#DESC:are ready to take their revenge.
+
+# (PSY) added 1x Tundra Wolves, 1x Scryb Sprites, 1x Forest, 1x Mountain, to bring card count to 60
+
+#Spark Elemental
+129577
+129577
+129577
+129577
+#Tundra Wolves
+129604
+129604
+129604
+129604
+#Watchwolf
+83625
+83625
+83625
+83625
+#Wooly Thoctar
+175062
+175062
+175062
+175062
+#Scryb Sprites
+1264
+1264
+1264
+1264
+#Lightning Bolt
+1303
+1303
+1303
+1303
+#Kird Ape
+1302
+1302
+1302
+1302
+#Savannah Lions
+1365
+1365
+1365
+1365
+#Swords to Plowshares
+1367
+1367
+1367
+1367
+#Forest6
+1388
+1388
+1388
+1388
+1388
+1388
+#Plains9
+1397
+1397
+1397
+1397
+1397
+1397
+1397
+1397
+1397
+#Mountain9
+1390
+1390
+1390
+1390
+1390
+1390
+1390
+1390
+1390

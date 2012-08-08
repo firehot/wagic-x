@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3733/trunk/JGE/Dependencies/SDL/src/events
+END
+SDL_windowevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/events/SDL_windowevents.c
+END
+SDL_mouse_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/events/SDL_mouse_c.h
+END
+SDL_keyboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/events/SDL_keyboard.c
+END
+SDL_windowevents_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/events/SDL_windowevents_c.h
+END
+SDL_events.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/events/SDL_events.c
+END
+SDL_keyboard_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/events/SDL_keyboard_c.h
+END
+SDL_sysevents.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/events/SDL_sysevents.h
+END
+scancodes_darwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/events/scancodes_darwin.h
+END
+SDL_events_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/events/SDL_events_c.h
+END
+scancodes_xfree86.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/events/scancodes_xfree86.h
+END
+SDL_gesture.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/events/SDL_gesture.c
+END
+scancodes_windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/events/scancodes_windows.h
+END
+SDL_touch.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3733/trunk/JGE/Dependencies/SDL/src/events/SDL_touch.c
+END
+SDL_quit.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/events/SDL_quit.c
+END
+SDL_clipboardevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/events/SDL_clipboardevents.c
+END
+scancodes_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/events/scancodes_linux.h
+END
+default_cursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/events/default_cursor.h
+END
+SDL_gesture_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/events/SDL_gesture_c.h
+END
+blank_cursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/events/blank_cursor.h
+END
+SDL_mouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/events/SDL_mouse.c
+END
+SDL_touch_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/events/SDL_touch_c.h
+END
+SDL_clipboardevents_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/events/SDL_clipboardevents_c.h
+END

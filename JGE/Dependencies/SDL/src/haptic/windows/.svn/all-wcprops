@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/haptic/windows
+END
+SDL_syshaptic.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/haptic/windows/SDL_syshaptic.c
+END

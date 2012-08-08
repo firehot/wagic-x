@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/core/windows
+END
+SDL_windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/core/windows/SDL_windows.h
+END
+SDL_windows.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/core/windows/SDL_windows.c
+END

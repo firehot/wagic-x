@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng
+END
+pngerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng/pngerror.c
+END
+pngrio.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng/pngrio.c
+END
+pngwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng/pngwrite.c
+END
+pngconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng/pngconf.h
+END
+pngpread.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng/pngpread.c
+END
+pngwtran.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng/pngwtran.c
+END
+pngset.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng/pngset.c
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng/LICENSE
+END
+pngwio.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng/pngwio.c
+END
+pngvcrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng/pngvcrd.c
+END
+pngrutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng/pngrutil.c
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng/Android.mk
+END
+pngwutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng/pngwutil.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng/README
+END
+pngread.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng/pngread.c
+END
+pngmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng/pngmem.c
+END
+pngusr.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng/pngusr.h
+END
+png.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng/png.c
+END
+pngget.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng/pngget.c
+END
+pnggccrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng/pnggccrd.c
+END
+png.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng/png.h
+END
+pngrtran.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng/pngrtran.c
+END
+pngtrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/libpng/pngtrans.c
+END

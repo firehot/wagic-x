@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters
+END
+AdWhirlAdapterInMobi.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterInMobi.h
+END
+AdWhirlAdapterBrightRoll.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterBrightRoll.m
+END
+AdWhirlAdapterGoogleAdSense.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterGoogleAdSense.h
+END
+AdWhirlAdapterOneRiot.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterOneRiot.h
+END
+AdWhirlAdapterMdotM.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterMdotM.h
+END
+AdWhirlAdapterJumpTap.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterJumpTap.h
+END
+AdWhirlAdapterInMobi.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterInMobi.m
+END
+AdWhirlAdapterGoogleAdSense.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterGoogleAdSense.m
+END
+AdWhirlAdapterZestADZ.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterZestADZ.h
+END
+AdWhirlAdapterOneRiot.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterOneRiot.m
+END
+AdWhirlAdapterMillennial.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterMillennial.h
+END
+AdWhirlAdapterJumpTap.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterJumpTap.m
+END
+AdWhirlAdapterMdotM.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterMdotM.m
+END
+AdWhirlAdapterVideoEgg.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterVideoEgg.h
+END
+AdWhirlAdapterZestADZ.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterZestADZ.m
+END
+AdWhirlAdapterMillennial.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterMillennial.m
+END
+AdWhirlAdapterIAd.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterIAd.h
+END
+AdWhirlAdapterGreystripe.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterGreystripe.h
+END
+AdWhirlAdNetworkAdapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdNetworkAdapter.h
+END
+AdWhirlAdapterVideoEgg.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterVideoEgg.m
+END
+AdWhirlAdapterQuattro.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterQuattro.h
+END
+AdWhirlAdapterIAd.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterIAd.m
+END
+AdWhirlAdapterGreystripe.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterGreystripe.m
+END
+AdWhirlAdapterQuattro.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterQuattro.m
+END
+AdWhirlAdapterNexage.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterNexage.h
+END
+AdWhirlAdapterGoogleAdMobAds.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterGoogleAdMobAds.h
+END
+AdWhirlAdapterBrightRoll.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterBrightRoll.h
+END
+AdWhirlAdapterGoogleAdMobAds.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterGoogleAdMobAds.m
+END
+AdWhirlAdapterNexage.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4105/trunk/adwhirl/AdWhirlSDK_iOS_3.1.1/AdWhirl/adapters/AdWhirlAdapterNexage.m
+END

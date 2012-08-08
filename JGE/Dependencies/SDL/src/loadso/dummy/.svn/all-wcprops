@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/loadso/dummy
+END
+SDL_sysloadso.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/loadso/dummy/SDL_sysloadso.c
+END

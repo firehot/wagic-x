@@ -1,0 +1,18 @@
+K 13
+bugtraq:label
+V 8
+Issue #:
+K 16
+bugtraq:logregex
+V 50
+[Ii]ssues?:?(\s*(,|and)?\s*#?\d+)+(\s*and (\d+))?
+
+K 15
+bugtraq:message
+V 14
+Issue: %BUGID%
+K 11
+bugtraq:url
+V 55
+http://code.google.com/p/wagic/issues/detail?id=%BUGID%
+END

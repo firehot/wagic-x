@@ -1,0 +1,132 @@
+10
+
+dir
+4486
+http://wagic.googlecode.com/svn/trunk/projects/mtg/bin/Res
+http://wagic.googlecode.com/svn
+
+
+
+2012-07-26T02:30:59.900666Z
+4486
+punkeduard@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+01922e74-a4c3-11dd-a5cd-697bfd0a0cef
+
+test
+dir
+
+graphics
+dir
+
+settings
+dir
+
+lang
+dir
+
+packs
+dir
+
+campaigns
+dir
+
+LICENSE
+file
+
+
+
+
+2012-08-03T01:08:17.000000Z
+95cf08338b0b2d53d901d919b14aec14
+2011-05-07T08:37:12.143179Z
+3613
+wagic.the.homebrew
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1182
+
+themes
+dir
+
+createResourceZip.py
+file
+
+
+
+
+2012-08-03T01:08:17.000000Z
+8e0851c11863b492428676ad0f768481
+2012-05-07T05:09:12.079576Z
+4457
+techdragon.nguyen@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3518
+
+sound
+dir
+
+ai
+dir
+
+rules
+dir
+
+player
+dir
+
+sets
+dir
+

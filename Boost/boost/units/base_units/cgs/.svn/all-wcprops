@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2640/trunk/Boost/boost/units/base_units/cgs
+END
+biot.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2640/trunk/Boost/boost/units/base_units/cgs/biot.hpp
+END
+centimeter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2640/trunk/Boost/boost/units/base_units/cgs/centimeter.hpp
+END
+gram.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2640/trunk/Boost/boost/units/base_units/cgs/gram.hpp
+END

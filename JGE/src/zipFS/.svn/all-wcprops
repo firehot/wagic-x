@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/4293/trunk/JGE/src/zipFS
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3858/trunk/JGE/src/zipFS/stdafx.h
+END
+ziphdr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3858/trunk/JGE/src/zipFS/ziphdr.cpp
+END
+zfs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3858/trunk/JGE/src/zipFS/zfs.cpp
+END
+ziphdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3858/trunk/JGE/src/zipFS/ziphdr.h
+END
+stdint_old.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3858/trunk/JGE/src/zipFS/stdint_old.h
+END
+zstream_zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3858/trunk/JGE/src/zipFS/zstream_zlib.h
+END
+zfs.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3858/trunk/JGE/src/zipFS/zfs.vcxproj
+END
+fileio.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4083/trunk/JGE/src/zipFS/fileio.h
+END
+zfs.sln
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3858/trunk/JGE/src/zipFS/zfs.sln
+END
+static_assert.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3858/trunk/JGE/src/zipFS/static_assert.h
+END
+zfs.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3858/trunk/JGE/src/zipFS/zfs.vcxproj.filters
+END
+zfs.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3858/trunk/JGE/src/zipFS/zfs.vcproj
+END
+zfsystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4293/trunk/JGE/src/zipFS/zfsystem.cpp
+END
+zstream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4128/trunk/JGE/src/zipFS/zstream.cpp
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3858/trunk/JGE/src/zipFS/stdafx.cpp
+END
+zfsystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4128/trunk/JGE/src/zipFS/zfsystem.h
+END
+zstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4128/trunk/JGE/src/zipFS/zstream.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3858/trunk/JGE/src/zipFS/Makefile
+END

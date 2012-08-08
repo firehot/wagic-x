@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2640/trunk/Boost/boost/concept/detail
+END
+concept_def.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2640/trunk/Boost/boost/concept/detail/concept_def.hpp
+END
+concept_undef.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2640/trunk/Boost/boost/concept/detail/concept_undef.hpp
+END
+general.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2640/trunk/Boost/boost/concept/detail/general.hpp
+END
+borland.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2640/trunk/Boost/boost/concept/detail/borland.hpp
+END
+has_constraints.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2640/trunk/Boost/boost/concept/detail/has_constraints.hpp
+END
+backward_compatibility.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2640/trunk/Boost/boost/concept/detail/backward_compatibility.hpp
+END
+msvc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2640/trunk/Boost/boost/concept/detail/msvc.hpp
+END

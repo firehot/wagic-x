@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/video/dummy
+END
+SDL_nullevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/video/dummy/SDL_nullevents.c
+END
+SDL_nullframebuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/video/dummy/SDL_nullframebuffer.c
+END
+SDL_nullvideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/video/dummy/SDL_nullvideo.c
+END
+SDL_nullframebuffer_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/video/dummy/SDL_nullframebuffer_c.h
+END
+SDL_nullevents_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/video/dummy/SDL_nullevents_c.h
+END
+SDL_nullvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3528/trunk/JGE/Dependencies/SDL/src/video/dummy/SDL_nullvideo.h
+END
